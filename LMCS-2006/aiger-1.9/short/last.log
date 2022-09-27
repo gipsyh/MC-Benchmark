@@ -1,0 +1,7 @@
+10:52:56  we support exactly one module with a specification()
+Traceback (most recent call last):
+  File "/root/spec-framework/spec_2_smv.py", line 336, in <module>
+    exit(main(args.smv.read().splitlines(),
+  File "/root/spec-framework/spec_2_smv.py", line 279, in main
+    assert len(name_d_a_g_records) == 1, "we support exactly one module with a specification" + str(name_d_a_g_records)
+AssertionError: we support exactly one module with a specification()
