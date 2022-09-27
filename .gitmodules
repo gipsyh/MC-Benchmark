@@ -1,0 +1,3 @@
+[submodule "EPFL"]
+	path = benchmarks
+	url = https://github.com/lsils/benchmarks.git
