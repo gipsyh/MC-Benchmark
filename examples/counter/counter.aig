@@ -1,0 +1,15 @@
+aig 10 0 4 0 6 1
+2
+5
+14
+20
+2
+l0 bit0.value
+l1 bit1.value
+l2 bit2.value
+l3 bit3.value
+b0 AIGER_NEVER_0
+c
+smvtoaig
+1.9
+<stdin>
