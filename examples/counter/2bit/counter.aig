@@ -1,9 +1,0 @@
-aig 5 0 2 0 3
-3
-10
-l0 bit0.value
-l1 bit1.value
-c
-smvtoaig
-1.9
-<stdin>
